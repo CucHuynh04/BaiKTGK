@@ -1,0 +1,12 @@
+D:\codeC\DAL.KTGK\bin\Debug\DAL.KTGK.dll.config
+D:\codeC\DAL.KTGK\bin\Debug\DAL.KTGK.dll
+D:\codeC\DAL.KTGK\bin\Debug\DAL.KTGK.pdb
+D:\codeC\DAL.KTGK\bin\Debug\EntityFramework.dll
+D:\codeC\DAL.KTGK\bin\Debug\EntityFramework.SqlServer.dll
+D:\codeC\DAL.KTGK\bin\Debug\EntityFramework.xml
+D:\codeC\DAL.KTGK\bin\Debug\EntityFramework.SqlServer.xml
+D:\codeC\DAL.KTGK\obj\Debug\DAL.KTGK.csproj.AssemblyReference.cache
+D:\codeC\DAL.KTGK\obj\Debug\DAL.KTGK.csproj.CoreCompileInputs.cache
+D:\codeC\DAL.KTGK\obj\Debug\DAL.KTGK.csproj.Up2Date
+D:\codeC\DAL.KTGK\obj\Debug\DAL.KTGK.dll
+D:\codeC\DAL.KTGK\obj\Debug\DAL.KTGK.pdb
